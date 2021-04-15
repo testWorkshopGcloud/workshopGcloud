@@ -1,6 +1,6 @@
 
 
-# Workshop - CI/CD with Google Cloud Platform
+# Workshop - CI/CD with Google Cloud Platform ##
 
 This workshop repository contains exercises for a GCP DevOps CI/CD pipeline using mainly:
 
